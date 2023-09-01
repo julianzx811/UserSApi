@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lm/6IfYIcvzaXqbQlRFXpjbYNGhjL6Pybybo4crPvCqRR0Omrfl+yL0S2Ke32tHNcnwUxXIjvinEzBIKBmfX9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\julia\\OneDrive\\Escritorio\\tesis\\backend\\QuickMerkUsers\\QuickMerk.API\\QuickMerk.Domain\\QuickMerk.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\julia\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
